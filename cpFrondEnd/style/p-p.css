@@ -1,0 +1,63 @@
+*{
+    box-sizing:border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+/* Define a fonte padrão */
+body {
+    font-family: 'Poppins', sans-serif;
+  }
+  
+  /* Estilo do título principal */
+  .titulo h1 {
+    font-size: 36px;
+    font-weight: 700;
+    text-align: center;
+    color: #333;
+  }
+  
+  /* Estilo do logotipo */
+  img {
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+  }
+  
+  /* Estilo do parágrafo principal */
+  .text-prin {
+    margin: 40px auto;
+    max-width: 800px;
+    text-align: justify;
+    line-height: 1.5;
+    font-size: 18px;
+    color: #555;
+  }
+  
+  /* Estilo da lista de cursos */
+  ul {
+    list-style: none;
+    padding: 0;
+    margin: 40px auto;
+    max-width: 800px;
+  }
+  
+  ul li {
+    margin: 10px 0;
+  }
+  
+  ul li a {
+    display: block;
+    padding: 10px 20px;
+    background-color: #333;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+  }
+  
+  ul li a:hover {
+    background-color: #555;
+  }
+  
+  

@@ -1,0 +1,52 @@
+#pgprin{
+    text-align: center;
+}
+
+*{
+    box-sizing:border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+/* Define a fonte padrão */
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: #F5F5F5;
+    line-height: 1.5;
+}
+
+/* Estilo do título principal */
+#title-sites {
+    font-size: 36px;
+    font-weight: 700;
+    text-align: center;
+    margin-top: 20px;
+    color: #333;
+}
+
+a {
+    text-decoration: none;
+    color: #333;
+}
+
+a:hover {
+    color: #555;
+}
+
+h3 {
+    font-size: 24px;
+    font-weight: 600;
+    margin-top: 40px;
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+    border-radius: 5px;
+    box-shadow: 0px 3px 10px rgba(0, 0, 0, 0.2);
+}
+
+
